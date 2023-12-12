@@ -1,0 +1,51 @@
+
+.navbar-brand{
+
+   padding-left: 8rem;
+   width: 270px;  
+   font-weight: 750;
+   line-height: 1em;
+   color: #4A5568;
+
+}
+
+.navbar-toggler-icon{
+font-size: 15px;
+}
+
+
+.d-flex{
+   
+   width: 600px;
+   height: 48px;
+   padding-left:10rem;
+   border: 1px solid #E2E8F0;
+
+}
+
+
+.btn{
+
+   display: flex;
+   flex-direction: row;
+   padding-right: 4rem;  
+   width: 100px;
+   
+
+}
+
+
+.collapse{
+    padding-left: 10rem;
+
+}
+
+.nav-item{
+
+    text-decoration: #4A5568;
+    padding:1rem;
+
+}
+
+
+

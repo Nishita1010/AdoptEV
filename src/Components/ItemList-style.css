@@ -1,0 +1,40 @@
+.Image{
+    float: left;
+    padding-left: 6rem;
+    margin-left: 2rem; 
+    
+}
+
+.device{
+    text-align:center;
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+
+}
+
+
+.flex-column{
+    width: 8.7rem;
+
+}
+
+.Link{
+    text-decoration: solid;
+    color: black; 
+    text-decoration: double;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.Link:hover{
+
+    color: #319795;
+}
+
+
+.body{
+    margin: auto;
+}
